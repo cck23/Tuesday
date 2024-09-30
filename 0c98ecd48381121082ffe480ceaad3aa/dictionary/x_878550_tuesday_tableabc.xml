@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element db_object_id="fd49a0988381121082ffe480ceaad312" label="TableABC" max_length="40" name="x_878550_tuesday_tableabc" type="collection">
-        <element label="Field 1" max_length="40" name="field_1" type="string"/>
-        <element label="Field 2" max_length="40" name="field_2" type="string"/>
+        <element label="Field 1" max_length="100" name="field_1" type="string"/>
+        <element label="Field 2" max_length="100" name="field_2" type="string"/>
+        <element label="Field 3" max_length="40" name="field_3" type="string"/>
+        <element label="Field 4" max_length="40" name="field_4" type="string"/>
     </element>
 </database>
